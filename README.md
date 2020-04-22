@@ -1,5 +1,6 @@
 # NFL-Data
-Project Title:NFL Careers over the Years
+Project Title:Analyze NFL player careers.
+
 Project Description Outline
 _________________________________
 Find NFL player data and analyze data to answer the following questions:
@@ -14,6 +15,6 @@ Focusing on seasons QB, TE, WR, RB over all NFL teams we charted career length b
 Charted mean and standard deviate of the career length.
 
 Conclusions:
-Isolated criteria and threshold that might predict the likelihood of an offesive player making it to the hall of fame
+We derived criteria and threshold that might predict the likelihood of an offesive player making it to the hall of fame
 
 Datasets to be Used:https://www.pro-football-reference.com/play-index/psl_finder.cgi
